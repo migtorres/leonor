@@ -1,8 +1,8 @@
-[data-background="http://imagens9.publico.pt/imagens.aspx/782689?tp=UH&db=IMAGENS"]
+<section data-background="http://imagens9.publico.pt/imagens.aspx/782689?tp=UH&db=IMAGENS">
 # Leonor Natário 
 
 ### Pharmacy Technician
-
+</section>
 
 
 #Career
