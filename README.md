@@ -30,8 +30,8 @@
 
 #Education
 
-##Post Graduate Degree in Health Products and Medicins based in Plants
 
+##Post Graduate Degree in Health Products and Medicins based in Plants
 
 ###June 2011 to October 2011
 
@@ -58,7 +58,7 @@
 ###July 2006
 
 
-## Coimbra University Hospitals – Pharmacy Services
+##Coimbra University Hospitals – Pharmacy Services
 
 ###Student Internship
 
@@ -76,7 +76,7 @@
 
 ###Student Internship
 
-##October  2005 - December 2005 
+###October  2005 - December 2005 
 
 
 
@@ -85,7 +85,7 @@
 
 ##Portuguese
 
-##First Language
+###First Language
 
 
 ##English:
@@ -95,7 +95,7 @@
 ###Fair: Writting
 
 
-French:
+##French:
 
 ###Good: Oral Understanding, Reading, Oral Interaction, Writting
 
