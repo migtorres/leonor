@@ -1,11 +1,11 @@
-<section data-background="https://lh3.googleusercontent.com/-65rxdG6oXpg/UdnVBlVPK2I/AAAAAAAAAyQ/dh8qhuyFcR4/s1024/IMG_6167.JPG"></section>
+<section data-background="https://lh3.googleusercontent.com/-65rxdG6oXpg/UdnVBlVPK2I/AAAAAAAAAyQ/dh8qhuyFcR4/s1024/IMG_6167.JPG">
 # Leonor Natário 
 
 ### Pharmacy Technician
 
 
 
-<section data-background="https://lh4.googleusercontent.com/-zej5qzkpKwQ/UdnipRLdWAI/AAAAAAAAA1A/k8Dcf3Nk198/s1024/IMG_5463.JPG">
+</section><section data-background="https://lh4.googleusercontent.com/-zej5qzkpKwQ/UdnipRLdWAI/AAAAAAAAA1A/k8Dcf3Nk198/s1024/IMG_5463.JPG">
 #Career
 
 
@@ -27,11 +27,10 @@
 ##Farmácia da Caixa de Previdência
 
 ###From August to April 2007
-</section>
 
 
 
-<section data-background="https://lh3.googleusercontent.com/-ow_m6YO4FrQ/Udnihfvk8AI/AAAAAAAAA0o/HcdFjV6sBgw/s1024/IMG_1787.JPG">
+</section><section data-background="https://lh3.googleusercontent.com/-ow_m6YO4FrQ/Udnihfvk8AI/AAAAAAAAA0o/HcdFjV6sBgw/s1024/IMG_1787.JPG">
 #Education
 
 
@@ -49,11 +48,10 @@
 ###October 2003 to November 2007
 
 ###Average Grade 14/20
-</section>
 
 
 
-<section data-background="https://lh6.googleusercontent.com/-oJAKiBAuaiU/UdniZEU4FJI/AAAAAAAAA0Y/dBqVkW2ZDZs/s1024/IMG_0448.JPG">
+</section><section data-background="https://lh6.googleusercontent.com/-oJAKiBAuaiU/UdniZEU4FJI/AAAAAAAAA0Y/dBqVkW2ZDZs/s1024/IMG_0448.JPG">
 #Internships
 
 
@@ -83,12 +81,10 @@
 ###Student Internship
 
 ###October  2005 - December 2005 
-</section>
 
 
 
-
-<section data-background="https://lh3.googleusercontent.com/-i4gVjMzDwvk/UdniuqTPUtI/AAAAAAAAA1Q/hSg4k_L86sg/s1024/IMG_5744.JPG">
+</section><section data-background="https://lh3.googleusercontent.com/-i4gVjMzDwvk/UdniuqTPUtI/AAAAAAAAA1Q/hSg4k_L86sg/s1024/IMG_5744.JPG">
 #Languages
 
 
@@ -109,10 +105,10 @@
 ###Good: Oral Understanding, Reading, Oral Interaction, Writting
 
 ###Fair: Oral Production
-</section>
 
 
-<section data-background="https://lh6.googleusercontent.com/-wXf75MAxzgQ/UdniYc9jaVI/AAAAAAAAA0U/5TH7wwaNCQs/s1024/IMG_0771.JPG">
+
+</section><section data-background="https://lh6.googleusercontent.com/-wXf75MAxzgQ/UdniYc9jaVI/AAAAAAAAA0U/5TH7wwaNCQs/s1024/IMG_0771.JPG">
 #Other Skills
 
 
