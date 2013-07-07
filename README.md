@@ -1,13 +1,10 @@
-<section data-background="https://lh3.googleusercontent.com/-65rxdG6oXpg/UdnVBlVPK2I/AAAAAAAAAyQ/dh8qhuyFcR4/s1024/IMG_6167.JPG">
-
-</section>
-# Leonor Natário 
+<section data-background="https://lh3.googleusercontent.com/-65rxdG6oXpg/UdnVBlVPK2I/AAAAAAAAAyQ/dh8qhuyFcR4/s1024/IMG_6167.JPG"></section># Leonor Natário 
 
 ### Pharmacy Technician
 
 
 
-#Career
+<section data-background="https://lh4.googleusercontent.com/-zej5qzkpKwQ/UdnipRLdWAI/AAAAAAAAA1A/k8Dcf3Nk198/s1024/IMG_5463.JPG">#Career
 
 
 ##Farmácia da Caixa de Previdência
@@ -28,11 +25,12 @@
 ##Farmácia da Caixa de Previdência
 
 ###From August to April 2007
+</section>
 
 
 
 #Education
-
+<section data-background="https://lh3.googleusercontent.com/-ow_m6YO4FrQ/Udnihfvk8AI/AAAAAAAAA0o/HcdFjV6sBgw/s1024/IMG_1787.JPG">
 
 ##Post Graduate Degree in Health Products and Medicins based in Plants
 
@@ -48,11 +46,12 @@
 ###October 2003 to November 2007
 
 ###Average Grade 14/20
+</section>
 
 
 
 #Internships
-
+<section data-background="https://lh3.googleusercontent.com/-XYoq9fdIN4c/UdniVBH5YnI/AAAAAAAAA1s/QNOKQA4-YNU/s720/DSC05764.JPG">
 
 ##Louzanfarma - Parapharmacy
 
@@ -80,11 +79,12 @@
 ###Student Internship
 
 ###October  2005 - December 2005 
+</section>
 
 
 
-##Languages
-
+#Languages
+<section data-background="https://lh3.googleusercontent.com/-i4gVjMzDwvk/UdniuqTPUtI/AAAAAAAAA1Q/hSg4k_L86sg/s1024/IMG_5744.JPG">
 
 ##Portuguese
 
@@ -103,10 +103,12 @@
 ###Good: Oral Understanding, Reading, Oral Interaction, Writting
 
 ###Fair: Oral Production
+</section>
+
 
 
 #Other Skills
-
+<section data-background="https://lh6.googleusercontent.com/-wXf75MAxzgQ/UdniYc9jaVI/AAAAAAAAA0U/5TH7wwaNCQs/s1024/IMG_0771.JPG">
 
 ##Social and Organizational:
 
@@ -124,4 +126,4 @@
 ##Additional Information:
 
 ###Presence in several Pharmacy training sessions and courses, screening and awareness programmes,, talks, conferences, wokshops and seminars
-
+</section>
