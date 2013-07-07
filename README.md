@@ -5,32 +5,37 @@
 
 
 
+<section data-background="https://lh4.googleusercontent.com/-zej5qzkpKwQ/UdnipRLdWAI/AAAAAAAAA1A/k8Dcf3Nk198/s1024/IMG_5463.JPG">
 #Career
-<section data-background="https://lh4.googleusercontent.com/-zej5qzkpKwQ/UdnipRLdWAI/AAAAAAAAA1A/k8Dcf3Nk198/s1024/IMG_5463.JPG"></section>
+</section>
 
 
-<section data-background="https://lh4.googleusercontent.com/-zej5qzkpKwQ/UdnipRLdWAI/AAAAAAAAA1A/k8Dcf3Nk198/s1024/IMG_5463.JPG"></section>
+<section data-background="https://lh4.googleusercontent.com/-zej5qzkpKwQ/UdnipRLdWAI/AAAAAAAAA1A/k8Dcf3Nk198/s1024/IMG_5463.JPG">
 ##Farmácia da Caixa de Previdência
 
 ###From March 2009
+</section>
 
 
-<section data-background="https://lh4.googleusercontent.com/-zej5qzkpKwQ/UdnipRLdWAI/AAAAAAAAA1A/k8Dcf3Nk198/s1024/IMG_5463.JPG"></section>
+<section data-background="https://lh4.googleusercontent.com/-zej5qzkpKwQ/UdnipRLdWAI/AAAAAAAAA1A/k8Dcf3Nk198/s1024/IMG_5463.JPG">
 ##Leiria Hospital Communitary Pharmacy
 
 ###September 2003 to February 2009
+</section>
 
 
-<section data-background="https://lh4.googleusercontent.com/-zej5qzkpKwQ/UdnipRLdWAI/AAAAAAAAA1A/k8Dcf3Nk198/s1024/IMG_5463.JPG"></section>
+<section data-background="https://lh4.googleusercontent.com/-zej5qzkpKwQ/UdnipRLdWAI/AAAAAAAAA1A/k8Dcf3Nk198/s1024/IMG_5463.JPG">
 ##Figueira da Foz Hospital Pharmacy
 
 ###May 2008 to August 2008
+</section>
 
 
-<section data-background="https://lh4.googleusercontent.com/-zej5qzkpKwQ/UdnipRLdWAI/AAAAAAAAA1A/k8Dcf3Nk198/s1024/IMG_5463.JPG"></section>
+<section data-background="https://lh4.googleusercontent.com/-zej5qzkpKwQ/UdnipRLdWAI/AAAAAAAAA1A/k8Dcf3Nk198/s1024/IMG_5463.JPG">
 ##Farmácia da Caixa de Previdência
 
 ###From August to April 2007
+</section>
 
 
 
