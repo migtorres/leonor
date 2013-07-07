@@ -1,10 +1,12 @@
-<section data-background="https://lh3.googleusercontent.com/-65rxdG6oXpg/UdnVBlVPK2I/AAAAAAAAAyQ/dh8qhuyFcR4/s1024/IMG_6167.JPG"></section># Leonor Natário 
+<section data-background="https://lh3.googleusercontent.com/-65rxdG6oXpg/UdnVBlVPK2I/AAAAAAAAAyQ/dh8qhuyFcR4/s1024/IMG_6167.JPG"></section>
+# Leonor Natário 
 
 ### Pharmacy Technician
 
 
 
-<section data-background="https://lh4.googleusercontent.com/-zej5qzkpKwQ/UdnipRLdWAI/AAAAAAAAA1A/k8Dcf3Nk198/s1024/IMG_5463.JPG">#Career
+<section data-background="https://lh4.googleusercontent.com/-zej5qzkpKwQ/UdnipRLdWAI/AAAAAAAAA1A/k8Dcf3Nk198/s1024/IMG_5463.JPG">
+#Career
 
 
 ##Farmácia da Caixa de Previdência
@@ -29,8 +31,9 @@
 
 
 
-#Education
 <section data-background="https://lh3.googleusercontent.com/-ow_m6YO4FrQ/Udnihfvk8AI/AAAAAAAAA0o/HcdFjV6sBgw/s1024/IMG_1787.JPG">
+#Education
+
 
 ##Post Graduate Degree in Health Products and Medicins based in Plants
 
@@ -50,8 +53,9 @@
 
 
 
+<section data-background="https://lh6.googleusercontent.com/-oJAKiBAuaiU/UdniZEU4FJI/AAAAAAAAA0Y/dBqVkW2ZDZs/s1024/IMG_0448.JPG">
 #Internships
-<section data-background="https://lh3.googleusercontent.com/-XYoq9fdIN4c/UdniVBH5YnI/AAAAAAAAA1s/QNOKQA4-YNU/s720/DSC05764.JPG">
+
 
 ##Louzanfarma - Parapharmacy
 
@@ -83,8 +87,10 @@
 
 
 
-#Languages
+
 <section data-background="https://lh3.googleusercontent.com/-i4gVjMzDwvk/UdniuqTPUtI/AAAAAAAAA1Q/hSg4k_L86sg/s1024/IMG_5744.JPG">
+#Languages
+
 
 ##Portuguese
 
@@ -106,9 +112,9 @@
 </section>
 
 
-
-#Other Skills
 <section data-background="https://lh6.googleusercontent.com/-wXf75MAxzgQ/UdniYc9jaVI/AAAAAAAAA0U/5TH7wwaNCQs/s1024/IMG_0771.JPG">
+#Other Skills
+
 
 ##Social and Organizational:
 
