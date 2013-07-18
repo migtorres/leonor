@@ -20,9 +20,71 @@
 <!-- For syntax highlighting -->
 <link rel="stylesheet" href="lib/css/zenburn.css">
 
+<style>
+
+.button {
+  text-indent: -9999px;
+  display: block;
+  width: 40px;
+  height: 40px;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  opacity: 0.6;
+}
+
+.button:hover {
+  opacity: 1;
+}
+
+/* Position of the twitter button */
+#linkedin {
+  position: absolute;
+  right: 150px;
+  bottom: 25px;
+  z-index: 100;
+}
+
+#linkedin a {
+  background-image:url(images/linkedin_hover.png);
+}
+
+/* Position of the email link */
+#e-mail {
+  position: absolute;
+  bottom: 25px;
+  right: 225px;
+  z-index: 100;
+}
+
+#e-mail a {
+  background-image:url(images/email_hover.png);
+}
+
+.reveal section.stack {
+  height: 100%;
+}
+
+.reveal section.screenshot:not(.loading) {
+  overflow-y: auto;
+  height: 100%;
+}
+
+.reveal section.screenshot:not(.loading) img {
+  max-height: none;
+  height: auto;
+  width: 100%;
+}
+</style>
 </head>
 
-<body>
+<div id="linkedin">
+  <a href="http://www.linkedin.com/profile/view?id=150243429" class="button" title="Linkedin page" target="_blank">Find me on Linkedin</a>
+</div>
+<div id="e-mail">
+  <a href="mailto:leonor_nat@sapo.pt" class="button" title="Email">Send me an email</a>
+</div>
+
+
 
 <div class="reveal">
 
@@ -30,7 +92,7 @@
   <div class="slides">
 
         <section data-background="https://lh6.googleusercontent.com/-v8VaMDvvZhY/Uea-Fy68_OI/AAAAAAAAA2I/kSE92AOaO2A/w1376-h860-no/17-christmas-presents-christmas-gift-box_1920x1200_70410.jpg">
-      <h1>PARABÉNS PRINCESA! </h1>
+          <h1> <span style="color="#FFF"">PARABÉNS PRINCESA!</span> </h1>
 
       <h3> 19/07/2013 </h3>
     </section>
